@@ -2,7 +2,7 @@
 
 ## ur homework this week is to remake this whole script while adding in your own customizations  
 ### pls ask any questions you have on the group, it helps everyone
-
+# DO ALOT OF GOOGLING
 
 ### intructions for cloning a repo
 Open ur terminal and use the ls command and the cd command to navigate into ur dev folder and type,  

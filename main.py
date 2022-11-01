@@ -4,6 +4,17 @@ you can read all the other functions built into turtle in their documentaion
 https://www.geeksforgeeks.org/turtle-programming-python/
 """
 
+        
+
+"""
+things to try;
+    try making the initial direction of the ball random
+    try making the ball go faster as the game goes on
+    try making the background show a net or some shit
+    make use of the other functions/methods in the turtle module
+
+"""
+
 # RE CREATE THIS WHOLE SCRIPT ON YOUR OWN AND TRY TO MESS WITH IT AND CUSTOMIZE IT
 
 # import the turtle module
@@ -26,7 +37,7 @@ score_b = 0
 
 # create a new turtle (paddle a)
 paddle_a = turtle.Turtle()
-# set speed to 0 (fastest) (0-10, 10 being slowest)
+# set speed to 0 (fastest) (0-10, 10 being slowest) (u can read about this in the docs)
 paddle_a.speed(0)
 paddle_a.shape('square')
 paddle_a.color('white')
@@ -154,12 +165,3 @@ while True:
         ball.setx(-340)
         ball.dx *= -1
         
-        
-
-"""
-things to try;
-    try making the initial direction of the ball random
-    try making the ball go faster as the game goes on
-    try making the background show a net or some shit
-
-"""

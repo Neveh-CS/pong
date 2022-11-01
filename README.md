@@ -8,6 +8,10 @@
 Open ur terminal and use the ls command and the cd command to navigate into ur dev folder and type,  
 ``` git clone URL```  
 to clone the repository to ur pc  
+then use  
+``` cd pong ``` to navigate into the repo  
+and  
+``` code . ``` to open the repo in vscode (note the trailing ".")  
 (replace the word URL with the link to this repo)  
 
 
